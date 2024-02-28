@@ -1,7 +1,10 @@
-import '../../../index.css'
+import '@/index.css'
+
 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faEnvelope, faPhone } from '@fortawesome/free-solid-svg-icons';
+
+import { Link } from 'react-router-dom';
 
 
 
@@ -20,6 +23,7 @@ const Footer = () => {
                         <a className="link link-hover">LinkedIn</a>
                     </div>
                     <div className="flex gap-4">
+                        
 
                         <a className="link link-hover">Facebook</a>
                     </div>
@@ -42,8 +46,8 @@ const Footer = () => {
                         <FontAwesomeIcon icon={faEnvelope} />
                         <a href="mailto:yukienterprises@gmail.com" className="tracking-wide">yukienterprises@gmail.com</a>
                     </div>
-                    <a className="link link-hover navbar-item cursor-pointer">About us</a>
-                    <a className="link link-hover navbar-item cursor-pointer">Contact</a>
+                    <Link to="/about">About us</Link>
+                    <Link to="/contact">Contact</Link>
                 </nav>
                 <nav>
                     <header className="footer-title">Legal</header>
