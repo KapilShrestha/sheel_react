@@ -37,8 +37,6 @@ Sheel Waterproofing is a project aimed at creating a basic webpage for a waterpr
 - Components built with React and Typescript for enhanced maintainability and type safe
 ## Contribution
 Contributions are welcome! If you'd like to contribute to this project, feel free to fork the repository and submit a pull request.
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgements
 - [TailwindCSS](https://tailwindcss.com/docs/installation) - for providing a utility-first CSS framework. 
