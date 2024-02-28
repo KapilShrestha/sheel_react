@@ -1,8 +1,11 @@
 # Sheel WaterProofing
-## _Webpage built on React_
+_Please click on [Sheel Waterproofing](https://sheelwaterproofing.netlify.app/) to access the webpage._
 
+## Webpage built on React
 
 Sheel Waterproofing is a project aimed at creating a basic webpage for a waterproofing company. The goal is to provide users with a user-friendly design while incorporating modern web technologies such as HTML, Tailwind CSS, React, and TypeScript.
+
+## Please click on [Sheel Waterproofing](https://sheelwaterproofing.netlify.app/) to access the webpage 
 
 ## Technologies Used
 
