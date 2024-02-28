@@ -21,7 +21,7 @@ Sheel Waterproofing is a project aimed at creating a basic webpage for a waterpr
     git clone https://github.com/KapilShrestha/sheel_react.git
 2.  **Install Dependencies**
     ```bash
-     cd sheel_waterproofing
+     cd sheel_react
      npm install
 3. **Start the development Server**
     ```bash
@@ -41,6 +41,9 @@ Contributions are welcome! If you'd like to contribute to this project, feel fre
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgements
-- TailwindCSS - for providing a utility-first CSS framework. 
-- React for building user interfaces.
-- TypeScript for adding static typing to JavaScript.
+- [TailwindCSS](https://tailwindcss.com/docs/installation) - for providing a utility-first CSS framework. 
+- [React](https://react.dev/learn) for building user interfaces.
+- [TypeScript](https://www.typescriptlang.org/docs/) - for adding static typing to JavaScript.
+- [AceternityUI](https://ui.aceternity.com/components) - for offering a comprehensive library of UI components with modern design aesthetics. 
+- [DaisyUI](https://daisyui.com/components/) - for providing a versatile set of UI components designed to streamline web development workflows.
+
