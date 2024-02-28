@@ -24,11 +24,12 @@ Sheel Waterproofing is a project aimed at creating a basic webpage for a waterpr
     ```bash
      cd sheel_react
      npm install
-3. **Start the development Server**
+3. **Start the development Server:**
     ```bash
     npm run dev
-4. **Open the browser**
-   Open your web browser and navigate to http://localhost:5173
+4. **Open the browser:**
+
+Open your web browser and navigate to http://localhost:5173
 
 ## Features
 
