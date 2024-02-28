@@ -12,8 +12,8 @@ Sheel Waterproofing is a project aimed at creating a basic webpage for a waterpr
 - HTML
 
 ## Component Library Used
-- Aceternity UI
-- Daisy UI
+- [AceternityUI](https://ui.aceternity.com/components)
+- [DaisyUI](https://daisyui.com/components/)
 
 ## Getting Started
 1. **Clone the repository:**
