@@ -67,7 +67,7 @@ function NavbarOld() {
                 <Link to="/">Home</Link>
               </li>
               <li>
-                <Link to="/about">About Us</Link>
+                <Link to="/about">About</Link>
               </li>
               <li>
                 <Link to="/products">Products</Link>
@@ -77,7 +77,7 @@ function NavbarOld() {
               </li>
 
               <li>
-                <Link to="/contact">Contact Us</Link>
+                <Link to="/contact">Contact</Link>
               </li>
             </ul>
           </div>
@@ -103,7 +103,7 @@ function NavbarOld() {
               <Link to="/">Home</Link>
             </li>
             <li>
-              <Link to="/about">About Us</Link>
+              <Link to="/about">About</Link>
             </li>
             <li>
               <Link to="/services">Services</Link>
@@ -114,7 +114,7 @@ function NavbarOld() {
 
 
             <li>
-              <Link to="/contact">Contact Us</Link>
+              <Link to="/contact">Contact</Link>
             </li>
           </ul>
         </div >
