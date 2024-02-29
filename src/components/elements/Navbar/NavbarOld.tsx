@@ -67,17 +67,17 @@ function NavbarOld() {
                 <Link to="/">Home</Link>
               </li>
               <li>
-                <Link to="about">About Us</Link>
+                <Link to="/about">About Us</Link>
               </li>
               <li>
-                <Link to="products">Products</Link>
+                <Link to="/products">Products</Link>
               </li>
               <li>
-                <Link to="services">Services</Link>
+                <Link to="/services">Services</Link>
               </li>
 
               <li>
-                <Link to="contact">Contact Us</Link>
+                <Link to="/contact">Contact Us</Link>
               </li>
             </ul>
           </div>
@@ -106,33 +106,21 @@ function NavbarOld() {
               <Link to="/about">About Us</Link>
             </li>
             <li>
-              <Link to="services">Services</Link>
+              <Link to="/services">Services</Link>
             </li>
             <li>
-              <Link to="products">Our Products</Link>
+              <Link to="/publicproducts">Our Products</Link>
             </li>
 
 
             <li>
-              <Link to="contact">Contact Us</Link>
+              <Link to="/contact">Contact Us</Link>
             </li>
           </ul>
         </div >
 
         <div className="navbar-end flex gap-12">
 
-
-          {/* <Input
-            type="text"
-            id="searchInput"
-            placeholder="Search"
-            value={searchContext?.searchQuery ?? ""}
-            onChange={(e) => {
-              if (searchContext) {
-                searchContext.handleSetSearchQuery(e.target.value);
-              }
-            }}
-          /> */}
           <MyLiveSearch
             results={results}
             value={selectedProduct?.cardTitle}
