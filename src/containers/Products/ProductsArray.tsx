@@ -8,14 +8,14 @@ export const products = [
     },
 
     {
-      linkUrl: "/products/vista-no-2",
+      linkUrl: "products/vista-no-2",
       imageUrl: "/images/dummy-img.jpg",
       cardTitle: "Vista No. 2",
       cardContent:
         "VISTA NO - 2 is an extra fast setting waterproof / plugging compound liquid.",
     },
     {
-      linkUrl: "/products/vista-no-3",
+      linkUrl: "products/vista-no-3",
       imageUrl: "/images/dummy-img.jpg",
       cardTitle: "Vista No. 3",
       cardContent:

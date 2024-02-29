@@ -60,21 +60,24 @@ function NavbarOld() {
             <ul
               // tabIndex="0"
               className={`menu menu-sm dropdown-content p-2 z-[2] shadow bg-purple-900 rounded-box w-60 ${isDropdownOpen ? "block" : "hidden"
-                }`}
+                } px-2`}
             >
               {/* Nav links */}
               <li>
                 <Link to="/">Home</Link>
               </li>
               <li>
-                <Link to="/about">About Us</Link>
+                <Link to="about">About Us</Link>
+              </li>
+              <li>
+                <Link to="products">Products</Link>
               </li>
               <li>
                 <Link to="services">Services</Link>
               </li>
 
               <li>
-                <Link to="/contact">Contact Us</Link>
+                <Link to="contact">Contact Us</Link>
               </li>
             </ul>
           </div>
@@ -103,10 +106,10 @@ function NavbarOld() {
               <Link to="/about">About Us</Link>
             </li>
             <li>
-              <Link to="/services">Services</Link>
+              <Link to="services">Services</Link>
             </li>
             <li>
-              <Link to="/products">Our Products</Link>
+              <Link to="products">Our Products</Link>
             </li>
 
 
